@@ -1,0 +1,158 @@
+{
+  "users": [
+    {
+      "username": "qwerty",
+      "email": "qwerty@gmail.com",
+      "password": "1234",
+      "id": "1"
+    },
+    {
+      "id": "ebc1",
+      "username": "qwerty",
+      "email": "qwerty@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "c863",
+      "username": "qwerty",
+      "email": "qwerty@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "1139",
+      "username": "qwerty",
+      "email": "qwerty@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "5cde",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "f8a6",
+      "username": "qwdeq",
+      "email": "yogi@gmail.com",
+      "password": "thdgdxfghx"
+    },
+    {
+      "id": "7a93",
+      "username": "Yogesh",
+      "email": "21@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "6a6d",
+      "username": "Yogesh",
+      "email": "21@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "c907",
+      "username": "Yogesh",
+      "email": "21@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "4682",
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "5e56",
+      "username": "Prabhu",
+      "email": "Prabhu@gmail",
+      "password": ""
+    },
+    {
+      "id": "3cf1",
+      "username": "prabhu",
+      "email": "prabhu@gmail.com",
+      "password": "32145"
+    },
+    {
+      "id": "26a5",
+      "username": "Yogesh",
+      "email": "Yk@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "73d0",
+      "username": "Yogesh",
+      "email": "EWF@GMAIL.COM",
+      "password": "1234"
+    }
+  ],
+  "students": [
+    {
+      "id": "c40c",
+      "username": "yogi",
+      "gmail": "yogi@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "0d7f",
+      "username": "Yogesh",
+      "gmail": "21@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "be78",
+      "username": "Prabhu",
+      "gmail": "Prabhu@gmail.com",
+      "password": "6789"
+    }
+  ],
+  "register": [
+    {
+      "id": "6924",
+      "name": "yogi",
+      "email": "yogi@gmail.com",
+      "number": "3245",
+      "course": "Data Sciernce",
+      "message": "hi"
+    },
+    {
+      "id": "83ef",
+      "name": "Yogesh Kannan",
+      "email": "ykblissfull@gmail.com",
+      "number": "9095616237",
+      "course": "Web Development",
+      "message": "hiiii"
+    },
+    {
+      "id": "22fb",
+      "name": "prabhu",
+      "email": "prabhu@gmail.com",
+      "number": "42345346",
+      "course": "Mobile App Development",
+      "message": "Can I join"
+    },
+    {
+      "id": "9585",
+      "name": "Naveen",
+      "email": "nav@gmail.com",
+      "number": "325453465",
+      "course": "Android Development",
+      "message": "IS there Free Certified"
+    }
+  ],
+  "home": [
+    {
+      "id": "6924",
+      "name": "yogi",
+      "email": "yogi@gmail.com",
+      "number": "3245",
+      "course": "Data Sciernce",
+      "message": "hi"
+    },
+    {
+      "id": "40de",
+      "name": "Naveen",
+      "number": "3254325345",
+      "email": "nav@gmail.com"
+    }
+  ]
+}
